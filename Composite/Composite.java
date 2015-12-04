@@ -3,7 +3,7 @@ import java.util.Iterator;
 
 public class Composite extends  Component {
 
-    private ArrayList component_list = new ArrayList();
+    private ArrayList<Component> component_list = new ArrayList();
 
     public Composite(String name) {
         super(name);
