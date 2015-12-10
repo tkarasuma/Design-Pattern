@@ -1,0 +1,5 @@
+program end
+program go end
+program go right left   end
+program loop 2 go right end end
+program loop 2 loop 3 go right  left end flash end end
